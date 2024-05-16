@@ -1,0 +1,3 @@
+class vec3d {
+
+}
